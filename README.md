@@ -4,38 +4,38 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 
 🔗 Live Demo
 
-👉 Live Website: (add your deployed Netlify/Vercel link here)
+👉 Live Website: 
 
 📌 Features
 
-Clean and professional UI/UX
+-Clean and professional UI/UX
 
-Fully responsive design (desktop, tablet, mobile)
+-Fully responsive design (desktop, tablet, mobile)
 
-Smooth scrolling and subtle animations
+-Smooth scrolling and subtle animations
 
-Sectioned layout for easy navigation
+-Sectioned layout for easy navigation
 
-Dedicated sections for:
+-Dedicated sections for:
 
-About Me
+-About Me
 
-Skills & Expertise
+-Skills & Expertise
 
-Projects
+-Projects
 
-Education & Certifications
+-Education & Certifications
 
-Contact Information
+-Contact Information
 
-Profile photo support
+-Profile photo support
 
-Resume download option
+-Resume download option
 
 🛠️ Tech Stack
 
-Frontend: HTML5, CSS3, JavaScript (Vanilla)
+-Frontend: HTML5, CSS3, JavaScript (Vanilla)
 
-Styling: Custom CSS (Flexbox, modern layout principles)
+-Styling: Custom CSS (Flexbox, modern layout principles)
 
-Deployment: Netlify / Vercel
+-Deployment: Vercel
